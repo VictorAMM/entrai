@@ -31,3 +31,12 @@ Este índice organiza os documentos por função, dependência e ordem de consum
 - Cada documento deve conter seção **Correlação** com links relativos válidos.
 - Toda decisão arquitetural deve explicitar validade temporal (`valid_from`, `valid_until`, `review_trigger`).
 - Toda atualização de processo deve preservar o grafo: `Feature ↔ PRD ↔ RFC ↔ ADR ↔ Commit ↔ Deploy ↔ Incidente ↔ RCA`.
+
+
+## Correlação
+- Especificação principal do sistema: [`../../AGENTIC_SDLC_OS_V3.md`](../../AGENTIC_SDLC_OS_V3.md).
+- Encadeamento de execução por fases: [`phases/README.md`](phases/README.md).
+- Regras de decisão arquitetural e stack: [`architecture/stack-discovery-first.md`](architecture/stack-discovery-first.md).
+- Critérios de validação e bloqueio por política: [`governance/validation-and-policy.md`](governance/validation-and-policy.md).
+- Fechamento de ciclo por memória e melhoria contínua: [`memory/knowledge-crystallization.md`](memory/knowledge-crystallization.md).
+- Contratos operacionais via templates: [`templates/README.md`](templates/README.md).

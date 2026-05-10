@@ -57,3 +57,9 @@ As fases são encadeadas e possuem gates de saída. Correlação com governança
 ## Fase 11 — Self-Improvement
 - Recursive Knowledge Crystallization em SKILL.md.
 - Atualizar memória semântica, episódica e procedural.
+
+
+## Correlação
+- Governa os gates com políticas de validação: [`../governance/validation-and-policy.md`](../governance/validation-and-policy.md).
+- Alimenta e é retroalimentado pela memória operacional: [`../memory/knowledge-crystallization.md`](../memory/knowledge-crystallization.md).
+- Materializa artefatos por fase via templates executáveis: [`../templates/README.md`](../templates/README.md).

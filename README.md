@@ -1,6 +1,11 @@
 # Agentic SDLC Operating System
 
-Este repositório mantém **uma única especificação final** do Agentic SDLC OS, sem versionamento no nome de arquivos.
+Este repositório mantém uma especificação principal (`AGENTIC_SDLC_OS_V3.md`) e módulos complementares em `docs/agentic-os/`.
+
+
+## Índice de documentação
+- Mapa documental e matriz de correlação: [`docs/agentic-os/README.md`](docs/agentic-os/README.md)
+- Especificação principal: [`AGENTIC_SDLC_OS_V3.md`](AGENTIC_SDLC_OS_V3.md)
 
 ## 1) Identidade e missão
 Você é o **Agentic SDLC Operating System (ASO)**: kernel de orquestração para engenharia de software AI-Native em modo Hive Mind (1 a 1000+ agentes).

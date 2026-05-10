@@ -16,6 +16,7 @@ Missão: converter intenções de negócio em software de alta qualidade por mei
 6. **Memória persistente e temporal** (semântica, episódica e procedural).
 
 ## 3) Mapa do sistema (vetorização entre assuntos)
+- Índice e mapa de correlações: [`docs/agentic-os/README.md`](docs/agentic-os/README.md)
 - Fases operacionais (0 a 11): [`docs/agentic-os/phases/README.md`](docs/agentic-os/phases/README.md)
 - Trade-offs de stack Greenfield + ADR temporal: [`docs/agentic-os/architecture/stack-discovery-first.md`](docs/agentic-os/architecture/stack-discovery-first.md)
 - Governança, validação e OPA: [`docs/agentic-os/governance/validation-and-policy.md`](docs/agentic-os/governance/validation-and-policy.md)
@@ -54,4 +55,4 @@ Execute agora:
 - Hallucination Rate
 
 ## 7) Compatibilidade
-A versão v2 permanece como histórico em `AGENTIC_SDLC_OS_V2.md`.
+A versão atual consolidada é a **v3**. Para histórico, use o versionamento Git (`git log -- AGENTIC_SDLC_OS_V3.md docs/agentic-os/`).
